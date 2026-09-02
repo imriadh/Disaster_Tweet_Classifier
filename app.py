@@ -81,6 +81,7 @@ if st.button("🔍 Analyze Tweet", type="primary", use_container_width=True):
         st.warning("⚠️ Please enter some text to analyze.")
 
 # --- Sidebar Information ---
+# --- Sidebar Information ---
 with st.sidebar:
     st.header("ℹ️ About the Model")
     st.markdown("""
@@ -88,6 +89,7 @@ with st.sidebar:
     - **Feature Extraction:** TF-IDF (Unigrams + Bigrams)
     - **Training Data:** 7,613 labeled tweets
     - **Validation F1 Score:** 0.7737
+    - **Kaggle Public Score:** **0.8274** (Top 200 Rank 🏆)
     - **Primary Metric:** F1-Score (Balances Precision & Recall)
     """)
     
