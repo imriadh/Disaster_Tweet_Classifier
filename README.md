@@ -25,7 +25,7 @@ This repository contains data preprocessing, model training, and evaluation code
 This project uses the public Kaggle competition "Real or Not? NLP with Disaster Tweets":
 https://www.kaggle.com/competitions/nlp-getting-started
 
-My solution / walkthrough on Kaggle: https://www.kaggle.com/code/riadhhossain/disaster-tweet-classification-project
+My solution / walkthrough on Kaggle: [https://www.kaggle.com/code/riadhhossain/disaster-tweet-classification-project](https://www.kaggle.com/code/riadhhossain/disaster-tweet-nlp-project)
 
 Download the CSV files (`train.csv`, `test.csv`) and place them in a `data/` directory at the repository root before running the scripts.
 
