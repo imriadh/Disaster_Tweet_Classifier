@@ -4,6 +4,9 @@ A simple, well-documented example project that uses TF‑IDF features with a Lin
 
 This repository contains data preprocessing, model training, and evaluation code used for the "Real or Not? NLP with Disaster Tweets" problem.
 
+# Deployed DistilBert Train Model On Hugging Face 
+ you can check with this link: https://riads-disaster-tweet-classification-01.hf.space
+
 ## Contents
 
 - README.md — this file
