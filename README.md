@@ -97,9 +97,7 @@ Contributions are welcome. To contribute:
 2. Create a branch and submit a pull request.
 
 ## License
-
-Add a `LICENSE` file to the repository (for example, MIT) to make the project's license explicit.
-
+We have MIT License, so don't steal it.
 ## Contact
 
 If you have questions or find issues, please open an issue in this repository.
